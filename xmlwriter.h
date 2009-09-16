@@ -1,5 +1,5 @@
 #ifndef __XML_WRITER__
-#define __XML_WRITER_
+#define __XML_WRITER__
 
 #include <string>
 #include <map>
